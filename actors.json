@@ -1,0 +1,17 @@
+[
+{"firstName": "Leonardo", "lastName": "Di Caprio", "moviesPlayed": ["Titanic", "The Departed", "Prestige"]},
+{"firstName": "Tom", "lastName": "Hardy", "moviesPlayed": ["Rock n Rolla"]},
+{"firstName": "Matt", "lastName": "Daemon", "moviesPlayed": ["Bourne's Legacy", "The Departed", "The Informant"]},
+{"firstName": "Tim", "lastName": "Roth", "moviesPlayed": ["Reservoir Dogs", "Pulp Fiction"]},
+{"firstName": "Harvey", "lastName": "Keitel", "moviesPlayed": ["Pulp Fiction", "Reservoir Dogs"]},
+{"firstName": "Christian", "lastName": "Bale", "moviesPlayed": ["The Machinist", "The Dark Knight Rises", "Prestige", "American Psycho"]},
+{"firstName": "Anne", "lastName": "Hathaway", "moviesPlayed": ["The Devil Wears Prada", "Interstellar"]},
+{"firstName": "Matthew", "lastName": "McConaghew", "moviesPlayed": ["Interstellar"]},
+{"firstName": "Eli", "lastName": "Roth", "moviesPlayed": ["Hostel"]},
+{"firstName": "Joe", "lastName": "Pantoliano", "moviesPlayed": ["Inglourious Basterds", "Hostel"]},
+{"firstName": "Michael", "lastName": "Madsen", "moviesPlayed": ["Kill Bill", "Reservoir Dogs"]},
+{"firstName": "Samuel", "lastName": "Jackson", "moviesPlayed": ["Django Unchained", "Coach Carter", "Pulp Fiction"]},
+{"firstName": "Hugh", "lastName": "Jackman", "moviesPlayed": ["The Fountain", "Prestige"]},
+{"firstName": "Guy", "lastName": "Pearce", "moviesPlayed": ["Memento"]},
+{"firstName": "Christoph", "lastName": "Waltz", "moviesPlayed": ["Django Unchained", "Inglourious Basterds"]}
+]

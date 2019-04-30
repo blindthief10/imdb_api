@@ -1,0 +1,10 @@
+[
+  {"name": "Inception", "productionYear": 2010, "imdb_ratio": 8.9, "director": "Christopher Nolan" },
+{"name": "Reservoir Dogs", "productionYear": 1992, "imdb_ratio": 8.7, "director": "Quentin Tarantino" },
+{"name": "Interstellar", "productionYear": 2014, "imdb_ratio": 8.7, "director": "Christopher Nolan" },
+{"name": "Prestige", "productionYear": 2006, "imdb_ratio": 8.5, "director": "Christopher Nolan" },
+{"name": "Inglourious Basterds", "productionYear": 2008, "imdb_ratio": 8.1, "director": "Quentin Tarantino" },
+{"name": "Memento", "productionYear": 2000, "imdb_ratio": 8.6, "director": "Christopher Nolan" },
+{"name": "Pulp Fiction", "productionYear": 1994, "imdb_ratio": 9.0, "director": "Quentin Tarantino" },
+{"name": "Pulp Fiction", "productionYear": 1994, "imdb_ratio": 9.0, "director": "Milad Khoshkaran" }
+]
