@@ -4,12 +4,14 @@ const mongoConnect = require('./utilities/mongoConnect.js');
 const morgan = require('morgan');
 const moviesRouter = require('./routes/movieRoute.js');
 const errorHandler = require('./utilities/errorHandler.js');
+const actorsRouter = require('./routes/actorRoute.js');
 
 app.use(morgan('dev'));
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 app.get('/', (req, res, next) => res.status(200).send('This is the home page!'))
 app.use('/movies', moviesRouter);
+app.use('/actors', actorsRouter);
 
 app.use(errorHandler);
 
